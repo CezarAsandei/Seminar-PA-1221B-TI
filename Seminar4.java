@@ -9,7 +9,7 @@ package com.mycompany.seminar4;
  *
  * @author Cezar
  */
-public class Seminar4 {
+public class seminar4 {
 
  // Function to perform Ternary Search
     static int ternarySearch(int l, int r, int key, int ar[])
