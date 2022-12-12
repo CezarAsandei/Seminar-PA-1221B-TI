@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * @author Cezar
  */
-public class Seminar6 {
+public class seminar6 {
 
 static void countSort(int[] arr)
     {
