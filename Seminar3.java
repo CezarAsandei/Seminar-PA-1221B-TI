@@ -9,7 +9,7 @@ package com.mycompany.seminar3;
  *
  * @author cezar
  */
-public class Seminar3 {
+public class seminar3 {
 
    // Encrypts text using a shift od s
     public static StringBuffer encrypt(String text, int s)
